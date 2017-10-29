@@ -1,0 +1,87 @@
+D:\Bots\JTSGuru\JTSGuru\bin\Bot Application.dll.config
+D:\Bots\JTSGuru\JTSGuru\bin\Bot Application.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Bot Application.pdb
+D:\Bots\JTSGuru\JTSGuru\bin\Autofac.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Chronic.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Connector.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Newtonsoft.Json.dll
+D:\Bots\JTSGuru\JTSGuru\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Bots\JTSGuru\JTSGuru\bin\System.Net.Http.Formatting.dll
+D:\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.dll
+D:\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.WebHost.dll
+D:\Bots\JTSGuru\JTSGuru\bin\Autofac.xml
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.xml
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Connector.xml
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Bots\JTSGuru\JTSGuru\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Bots\JTSGuru\JTSGuru\bin\Newtonsoft.Json.xml
+D:\Bots\JTSGuru\JTSGuru\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Bots\JTSGuru\JTSGuru\bin\System.Net.Http.Formatting.xml
+D:\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.xml
+D:\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.WebHost.xml
+D:\Bots\JTSGuru\JTSGuru\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Bots\JTSGuru\JTSGuru\obj\Debug\JTSGuru.csproj.CoreCompileInputs.cache
+D:\Bots\JTSGuru\JTSGuru\obj\Debug\Bot Application.dll
+D:\Bots\JTSGuru\JTSGuru\obj\Debug\Bot Application.pdb
+D:\Bots\JTSGuru\JTSGuru\obj\Debug\JTSGuru.csprojResolveAssemblyReference.cache
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Bot Application.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Bot Application.pdb
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Autofac.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Chronic.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Connector.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Newtonsoft.Json.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.Net.Http.Formatting.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.WebHost.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Autofac.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.Bot.Connector.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\Newtonsoft.Json.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.Net.Http.Formatting.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\System.Web.Http.WebHost.xml
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\obj\Debug\JTSGuru.csprojResolveAssemblyReference.cache
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\obj\Debug\JTSGuru.csproj.CoreCompileInputs.cache
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\obj\Debug\Bot Application.dll
+C:\Users\dsgarime\Documents\Bots\JTSGuru\JTSGuru\obj\Debug\Bot Application.pdb
